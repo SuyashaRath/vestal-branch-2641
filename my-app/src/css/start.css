@@ -1,0 +1,27 @@
+button{
+    display: flex;
+    border-radius: 20px;
+    background:#6C6CFF;
+    height: 40px;
+    align-items: center;
+    width: 140px;
+    justify-content: center;
+    background-color:#6C6CFF !important; 
+}
+.get2{
+    color: white;
+}
+.spn2{
+    color: white;
+    position: relative;
+    top: -5px;
+    font-size: 30px;
+    left: 0;
+    transition: all 0.5s ease;
+}
+button:hover{
+    background-color:#6C6CFF;
+}
+button:hover .spn2{
+    left: 8px;
+}
