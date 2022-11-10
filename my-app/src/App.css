@@ -1,0 +1,11 @@
+.App{
+  background-color: rgb(42, 1, 138);
+  height: 100vh;
+}
+.arrow{
+  position: relative;
+  transition: all 1s ease ;
+}
+.getStart:hover .arrow{
+  left: 5px;
+}
