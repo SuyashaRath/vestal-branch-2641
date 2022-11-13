@@ -61,7 +61,7 @@ export default function Work() {
             <img onClick={(e) => { handleClick(7) }} src="https://cdn-icons-png.flaticon.com/512/359/359657.png" alt="" />
             <img onClick={(e) => { handleClick(8) }} src="https://cdn-icons-png.flaticon.com/512/49/49116.png" alt="" />
             <img onClick={(e) => { handleClick(9) }} src="https://cdn-icons-png.flaticon.com/512/2984/2984971.png" alt="" />
-            <img onClick={(e) => { handleClick(10) }} src="https://img.icons8.com/ios/512/circled-men.png" alt="" />
+            <img onClick={(e) => { handleClick(10) }} src="https://cdn-icons-png.flaticon.com/512/51/51649.png" alt="" />
             <img onClick={(e) => { handleClick(11) }} src="https://cdn1.monday.com/dapulse_default_photo.png" alt="" />
           </VStack>
         
